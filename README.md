@@ -1,1 +1,1 @@
-# Hello, world! :vulcan_salute:	
+# Hello World! :vulcan_salute:	
