@@ -1,3 +1,1 @@
-# theme : minima
-
-# Tomas Gutierrez
+# Hello World
