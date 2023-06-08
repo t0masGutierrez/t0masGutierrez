@@ -1,1 +1,3 @@
-# Hello World :vulcan_salute:	
+theme: minima
+
+# Tomas Gutierrez
