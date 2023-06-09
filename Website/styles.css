@@ -1,0 +1,88 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+}
+
+p {
+  font-size: 20px;
+}
+
+li {
+  font-size: 18px;
+}
+
+#name {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: bold;
+  font-size: 60px;
+}
+
+#welcome {
+  font-style: bold;
+  font-size: 30px;
+}
+
+.everything {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
+
+a:active {
+  text-decoration: underline;
+  color: black;
+}
+
+a.now:link {
+  text-decoration: none;
+  color: #cc0000;
+}
+
+a.now:visited {
+  text-decoration: underline;
+  color: #cc0000;
+}
+
+a.now:hover {
+  text-decoration: underline;
+  color: #cc0000;
+}
+
+@media (max-width: 480px) {
+  #name {
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 480px) {
+  #welcome {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 480px) {
+  h2 {
+    font-size: 20px;
+  }
+}
