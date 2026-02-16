@@ -1,6 +1,4 @@
-## Tomas Gutierrez
-
-Interests
+# Interests
 - Scientific Computing 
 - PDE-Constrained Optimization
 - Operator Theory
