@@ -1,5 +1,5 @@
 # Interests
+- Optimization
 - Scientific Computing 
-- PDE-Constrained Optimization
-- Dynamical Systems
-- Operator Theory
+- Nonlinear Dynamics and Chaos
+- Operator Learning
