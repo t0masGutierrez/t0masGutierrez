@@ -1,5 +1,2 @@
 # Interests
-- Optimization
-- Scientific Computing 
-- Nonlinear Dynamics and Chaos
-- Astros
+optimization, scientific computing, nonlinear dynamics and chaos, astros
