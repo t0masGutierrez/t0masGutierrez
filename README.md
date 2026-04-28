@@ -1,2 +1,2 @@
 # Interests
-optimization, machine learning, scientific computing, nonlinear dynamics and chaos
+optimization, machine learning, nonlinear dynamics and chaos
